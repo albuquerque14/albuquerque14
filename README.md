@@ -25,9 +25,9 @@ Destaque os principais recursos da sua plataforma:
 - **Colaboração entre Técnicos:** A plataforma oferece um espaço exclusivo para técnicos de informática colaborarem, trocarem experiências e otimizarem seus serviços de consertos em domicílio.
 
 ## Instalação
-<a href="https://github.com/albuquerque14/appSideMenu">Clique Aqui</a>
-Forneça instruções claras sobre como os usuários podem começar a usar sua plataforma.
 
-git clone 
+git clone<a href="https://github.com/albuquerque14/appSideMenu">Clique Aqui</a>
+
 cd sua-startup
+
 npm install
