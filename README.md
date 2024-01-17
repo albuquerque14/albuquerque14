@@ -18,10 +18,11 @@ produtos de maneira descomplicada. Além disso, a startup desenvolveu uma comuni
 
 ## Recursos Principais
 
-Destaque os principais recursos da sua plataforma:
 
 - **Compra Descomplicada:** Através de uma interface amigável, os usuários podem facilmente adquirir os hardwares e componentes necessários para seus projetos.
+  
 - **Entrega Eficiente:** A startup garante entregas rápidas e seguras, proporcionando comodidade aos clientes.
+  
 - **Colaboração entre Técnicos:** A plataforma oferece um espaço exclusivo para técnicos de informática colaborarem, trocarem experiências e otimizarem seus serviços de consertos em domicílio.
 
 ## Instalação
