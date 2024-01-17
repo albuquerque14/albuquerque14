@@ -26,10 +26,14 @@ Destaque os principais recursos da sua plataforma:
 
 ## Instalação
 
-git clone <a href="https://github.com/albuquerque14/appSideMenu">Clique Aqui</a>
+1- git clone <a href="https://github.com/albuquerque14/appSideMenu">Clique Aqui</a>
 
-cd destino da pasta GITHUB
+2- cd destino da pasta GITHUB
 
-npm install
+3- npm install
 
-npm i swiper (usado para a utilização do carrousel)
+4- npm i swiper (usado para a utilização do carrousel)
+
+5- ionic serve 
+
+
