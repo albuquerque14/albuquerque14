@@ -29,6 +29,6 @@ Destaque os principais recursos da sua plataforma:
 Forneça instruções claras sobre como os usuários podem começar a usar sua plataforma.
 
 ```bash
-git clone [Clique aqui!]()
+git clone [Clique aqui!](https://github.com/albuquerque14/appSideMenu)
 cd sua-startup
 npm install
