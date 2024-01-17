@@ -26,7 +26,7 @@ Destaque os principais recursos da sua plataforma:
 
 ## Instalação
 
-git clone<a href="https://github.com/albuquerque14/appSideMenu">Clique Aqui</a>
+git clone <a href="https://github.com/albuquerque14/appSideMenu">Clique Aqui</a>
 
 cd sua-startup
 
