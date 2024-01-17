@@ -27,7 +27,7 @@ produtos de maneira descomplicada. Além disso, a startup desenvolveu uma comuni
 
 ## Instalação
 
-1- git clone <a href="https://github.com/albuquerque14/appSideMenu">Clonar agora!</a>
+1- git clone <a href="https://github.com/albuquerque14/appSideMenu.git">Clonar agora!</a>
 
 2- cd destino da pasta GITHUB
 
