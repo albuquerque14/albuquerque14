@@ -1,7 +1,7 @@
 <!-- Início do Arquivo README.md -->
 
  <h1>Techub Connection<h1>  
-   
+  
 ## Descrição
 
 Startup dedicada a simplificar o processo de compra e entrega de hardwares e componentes eletrônicos, e oferecer uma plataforma exclusiva para técnicos de informatica colaboradores que realizam consertos em domicilios
@@ -25,10 +25,9 @@ Destaque os principais recursos da sua plataforma:
 - **Colaboração entre Técnicos:** A plataforma oferece um espaço exclusivo para técnicos de informática colaborarem, trocarem experiências e otimizarem seus serviços de consertos em domicílio.
 
 ## Instalação
-
+<a href="https://github.com/albuquerque14/appSideMenu">Clique Aqui</a>
 Forneça instruções claras sobre como os usuários podem começar a usar sua plataforma.
 
-```bash
 git clone 
 cd sua-startup
 npm install
