@@ -29,6 +29,6 @@ Destaque os principais recursos da sua plataforma:
 Forneça instruções claras sobre como os usuários podem começar a usar sua plataforma.
 
 ```bash
-git clone https://github.com/seu-usuario/sua-startup.git
+git clone [Clique aqui!]()
 cd sua-startup
 npm install
